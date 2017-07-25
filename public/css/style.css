@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+form li { 
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+form label {
+  display: block;
+}
